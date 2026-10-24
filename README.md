@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository.
 <br>
-Author-Vaishnavi Kate
+Author-Vaishnavi Kate (vaishnavi)
